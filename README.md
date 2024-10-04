@@ -1,1 +1,1 @@
-# perfect-ruby-practice
+perfect-rubyの学習メモ
